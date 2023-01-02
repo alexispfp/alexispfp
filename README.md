@@ -21,10 +21,11 @@
 
   ## 🛠️ &nbsp;Skills
   
-  - Visual Studio Code
   - VIm
-  - MySQL
+  - SQL
   - Canva
+  - Figma
+  - Python
   
 </div>
 
@@ -32,10 +33,10 @@
 
   ## 📚 &nbsp;Currently learning
 
-  - Figma
+  - Pandas
   - Javascript
   - React
-  - Python
+  - Machine Learning
 
 </div>
 
