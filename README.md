@@ -44,10 +44,10 @@
 
   ## 📊 &nbsp;Activities
   <a href="https://github.com/alicepfp">
-    <img width=450 height=170 align="center" alt="alicepfp" src="https://github-readme-stats.vercel.app/api?username=alicepfp&theme=dracula&show_icons=true&bg_color=0D1117&hide_border=true&count_private=true" />
+    <img width=450 height=170 align="center" alt="alicepfp" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=alicepfp&theme=dracula&show_icons=true&bg_color=0D1117&hide_border=true&count_private=true" />
   </a>
   <a href="https://github.com/alicepfp">
-    <img align="center" alt="alicepfp" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alicepfp&theme=dracula&layout=compact&bg_color=0D1117&hide_border=true&count_private=true" />
+    <img align="center" alt="alicepfp" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=alicepfp&theme=dracula&layout=compact&bg_color=0D1117&hide_border=true&count_private=true" />
   </a>
 </div>
 
