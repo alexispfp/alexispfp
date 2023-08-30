@@ -21,11 +21,43 @@
 
   ## 🛠️ &nbsp;Skills
   
-  - VIm
-  - SQL
-  - Canva
-  - Figma
-  - Python
+  <p align="center">
+
+  - **Languages**
+
+    ![C](https://img.shields.io/badge/C%20-%232370ED.svg?style=for-the-badge&logo=c&logoColor=white)
+    ![Python](https://img.shields.io/badge/Python%20-%2314354C.svg?style=for-the-badge&logo=python&logoColor=white)
+    ![JavaScript](https://img.shields.io/badge/JavaScript%20-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black)
+
+  - **Front-End**
+
+    ![HTML5](https://img.shields.io/badge/HTML5%20-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
+    ![CSS3](https://img.shields.io/badge/CSS%20-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
+    ![Vue JS](https://img.shields.io/badge/Vue%20js-35495E?style=for-the-badge&logo=vuedotjs&logoColor=4FC08D)
+    ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+
+  - **Database**
+    
+    ![SQLite](https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white)
+    ![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
+    ![MariaDB](https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white)
+    ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
+
+  - **Software & Tools**
+
+    ![NeoVim](https://img.shields.io/badge/NeoVim-%2357A143.svg?&style=for-the-badge&logo=neovim&logoColor=white)
+    ![Vim](https://img.shields.io/badge/VIM-%2311AB00.svg?&style=for-the-badge&logo=vim&logoColor=white)
+    ![Visual Studio](https://img.shields.io/badge/Visual_Studio-5C2D91?style=for-the-badge&logo=visual%20studio&logoColor=white)
+    ![Jupyter](https://img.shields.io/badge/Jupyter-F37626.svg?&style=for-the-badge&logo=Jupyter&logoColor=white)
+    ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
+    ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+    ![Docker](https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white)
+
+  - **Design Tools**
+
+    ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
+    ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?&style=for-the-badge&logo=Canva&logoColor=white)
+    
   
 </div>
 
@@ -33,30 +65,37 @@
 
   ## 📚 &nbsp;Currently learning
 
-  - Pandas
-  - Javascript
-  - React
-  - Machine Learning
+   <p align="center">
+
+   - **Languages**
+
+     ![Typescript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
+
+  - **Python Libraries**
+
+    ![Plotly](https://img.shields.io/badge/Plotly-239120?style=for-the-badge&logo=plotly&logoColor=white)
+    ![Scikitlearn](https://img.shields.io/badge/scikit_learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
 
 </div>
 
 <div>
 
   ## 📊 &nbsp;Activities
-  <a href="https://github.com/alicepfp">
-    <img width=450 height=170 align="center" alt="alicepfp" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=alicepfp&theme=dracula&show_icons=true&bg_color=0D1117&hide_border=true&count_private=true" />
-  </a>
-  <a href="https://github.com/alicepfp">
-    <img align="center" alt="alicepfp" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=alicepfp&theme=dracula&layout=compact&bg_color=0D1117&hide_border=true&count_private=true" />
-  </a>
+
+  ![sumary](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=alicepfp&theme=dracula)
+  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=alicepfp&layout=compact&theme=dracula&hide_border=true)
+  
 </div>
 
 <div>
 
   ## 📫 &nbsp;Contact me 
   
-  [![LinkedIn Badge](https://img.shields.io/badge/-Alice_Ferreira-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/alicepfp)](https://www.linkedin.com/in/alicepfp)
-  [![Instagram Badge](https://img.shields.io/badge/-capvalce-%23E4405F?style=flat-square&logo=Instagram&logoColor=white)](https://www.instagram.com/capvalce/)
+  <a href="https://www.linkedin.com/in/alicepfp" target="_blank">
+  <img src=https://img.shields.io/badge/alicepfp-%2300acee.svg?color=405DE6&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
+
+  <a href="https://mail.google.com/mail/?view=cm&fs=1&to=alicepfp@labnet.nce.ufrj.br.com" target="_blank">
+  <img src=https://img.shields.io/badge/alicepfp@labnet.nce.ufrj.br-D14836?style=for-the-badge&logo=gmail&logoColor=white alt=gmail style="margin-bottom: 5px;" />
   
 </div>
 
