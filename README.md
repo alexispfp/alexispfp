@@ -4,7 +4,7 @@
 
   ## 🔭 &nbsp;About Me
 
-  - 📚 Engineering student at UFRJ
+  - 📚 Tech student at UFRJ
 
   - 🌱 I'm focused on learning new technologies 
 
