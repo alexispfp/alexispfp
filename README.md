@@ -103,7 +103,7 @@
 
 <!--START_SECTION:waka-->
 
-```python
+```ruby
 From: 28 October 2024 - To: 27 November 2024
 
 Total Time: 51 hrs 47 mins
