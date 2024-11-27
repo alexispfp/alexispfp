@@ -31,5 +31,10 @@ jobs:
           SHOW_MASKED_TIME: false # optional
           STOP_AT_OTHER: true # optional
           IGNORED_LANGUAGES: Other # optional
+      - uses: anmol098/waka-readme-stats@master
+        with:
+          WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }}
+          SHOW_OS: true
+          SHOW_EDITORS: true
           ### commit
           COMMIT_MESSAGE: Updated waka-readme graph with new metrics # optional
