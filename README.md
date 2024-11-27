@@ -101,7 +101,7 @@
 
   ## 📊 &nbsp;Activities
 
-    <!--START_SECTION:waka-->
+<!--START_SECTION:waka-->
 
 ```python
 From: 27 October 2024 - To: 26 November 2024
