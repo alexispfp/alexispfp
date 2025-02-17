@@ -136,10 +136,10 @@ Linux                    2 hrs 1 min         ███████████�
   ## 📫 &nbsp;Contact me 
   
   <a href="https://www.linkedin.com/in/alicepfp" target="_blank">
-  <img src=https://img.shields.io/badge/alicepfp-%2300acee.svg?color=405DE6&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
+  <img src=https://img.shields.io/badge/linkedin-%2300acee.svg?color=405DE6&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
 
   <a href="https://mail.google.com/mail/?view=cm&fs=1&to=alicepfp@labnet.nce.ufrj.br.com" target="_blank">
-  <img src=https://img.shields.io/badge/alicepfp@labnet.nce.ufrj.br-D14836?style=for-the-badge&logo=gmail&logoColor=white alt=gmail style="margin-bottom: 5px;" />
+  <img src=https://img.shields.io/badge/gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white alt=gmail style="margin-bottom: 5px;" />
   
 </div>
 
