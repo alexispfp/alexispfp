@@ -83,7 +83,6 @@
 
    - **Languages**
 
-     ![.net](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
      ![c++](https://img.shields.io/badge/C%2B%2B-purple?style=for-the-badge&logo=cplusplus)
      ![assembly](https://img.shields.io/badge/assembly-red?style=for-the-badge&logo=pastebin)
 
