@@ -133,7 +133,7 @@ Linux                    3 hrs 58 mins       ███████████�
 
   ## 📫 &nbsp;Contact me 
   
-  <a href="https://www.linkedin.com/in/alicepfp" target="_blank">
+  <a href="https://www.linkedin.com/in/alexispfp" target="_blank">
   <img src=https://img.shields.io/badge/linkedin-%2300acee.svg?color=405DE6&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
 
   <a href="https://mail.google.com/mail/?view=cm&fs=1&to=alicepfp@labnet.nce.ufrj.br.com" target="_blank">
