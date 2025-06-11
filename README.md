@@ -101,25 +101,19 @@
   ## 📊 &nbsp;Activities
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-200%20hrs%2041%20mins-blue)
 
-📊 **This Week I Spent My Time On** 
+```ruby
+From: 10 May 2025 - To: 09 June 2025
 
-```text
-🕑︎ Time Zone: America/Sao_Paulo
+Total Time: 5 hrs 32 mins
 
-💬 Programming Languages: 
-No Activity Tracked This Week
-
-🔥 Editors: 
-No Activity Tracked This Week
-
-💻 Operating System: 
-No Activity Tracked This Week
+TeX                      ███████████████████▒░░░░░   77.41 %
+sh                       ████░░░░░░░░░░░░░░░░░░░░░   15.86 %
+BibTeX                   ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.02 %
+Python                   ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.13 %
+Bash                     ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.83 %
 ```
 
-
- Last Updated on 10/06/2025 01:23:57 UTC
 <!--END_SECTION:waka-->
   
 </div>
