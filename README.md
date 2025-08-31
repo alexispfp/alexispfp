@@ -101,18 +101,23 @@
   ## 📊 &nbsp;Activities
 
 <!--START_SECTION:waka-->
+📊 **This Week I Spent My Time On** 
 
-```ruby
-From: 30 July 2025 - To: 29 August 2025
+```text
+🕑︎ Time Zone: America/Sao_Paulo
 
-Total Time: 24 hrs 21 mins
+💬 Programming Languages: 
+No Activity Tracked This Week
 
-Python                       ████████████████████░░░░░   80.26 %
-Markdown                     ██▓░░░░░░░░░░░░░░░░░░░░░░   10.62 %
-Shell                        ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.86 %
-Bash                         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.65 %
+🔥 Editors: 
+No Activity Tracked This Week
+
+💻 Operating System: 
+No Activity Tracked This Week
 ```
 
+
+ Last Updated on 31/08/2025 01:21:57 UTC
 <!--END_SECTION:waka-->
   
 </div>
