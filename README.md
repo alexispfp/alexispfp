@@ -101,18 +101,25 @@
   ## 📊 &nbsp;Activities
 
 <!--START_SECTION:waka-->
+![Code Time](http://img.shields.io/badge/Code%20Time-265%20hrs%2029%20mins-blue)
 
-```ruby
-From: 31 July 2025 - To: 30 August 2025
+📊 **This Week I Spent My Time On** 
 
-Total Time: 24 hrs 21 mins
+```text
+🕑︎ Time Zone: America/Sao_Paulo
 
-Python                       ████████████████████░░░░░   80.26 %
-Markdown                     ██▓░░░░░░░░░░░░░░░░░░░░░░   10.62 %
-Shell                        ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.86 %
-Bash                         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.65 %
+💬 Programming Languages: 
+No Activity Tracked This Week
+
+🔥 Editors: 
+No Activity Tracked This Week
+
+💻 Operating System: 
+No Activity Tracked This Week
 ```
 
+
+ Last Updated on 01/09/2025 01:28:48 UTC
 <!--END_SECTION:waka-->
   
 </div>
