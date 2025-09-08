@@ -45,6 +45,7 @@
     ![Plotly](https://img.shields.io/badge/Plotly-239120?style=for-the-badge&logo=plotly&logoColor=white)
     ![Scikitlearn](https://img.shields.io/badge/scikit_learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
     ![Numpy](https://img.shields.io/badge/Numpy-777BB4?style=for-the-badge&logo=numpy&logoColor=white)
+    ![opencv](https://img.shields.io/badge/OpenCV-purple?style=for-the-badge&logo=opencv&logoColor=white)
     
   - **DevOps**
 
@@ -90,8 +91,8 @@
 
      ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
      ![yolo](https://img.shields.io/badge/YOLO-8E75B2?style=for-the-badge&logo=googlegemini&logoColor=white)
-     ![opencv](https://img.shields.io/badge/OpenCV-purple?style=for-the-badge&logo=opencv&logoColor=white)
      ![xgboost](https://img.shields.io/badge/XGBoost-blue?style=for-the-badge&logo=WeightsAndBiases&logoColor=white)
+     ![tensorflow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
     
 
 </div>
