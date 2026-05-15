@@ -102,10 +102,19 @@
   ## 📊 &nbsp;Activities
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-326%20hrs%204%20mins-blue?style=flat)
 
+```ruby
+From: 14 April 2026 - To: 14 May 2026
 
- Last Updated on 14/05/2026 02:53:56 UTC
+Total Time: 12 mins
+
+HTML                               ████████▓░░░░░░░░░░░░░░░░   35.23 %
+conf                               ██████▒░░░░░░░░░░░░░░░░░░   25.13 %
+dosini                             ████▓░░░░░░░░░░░░░░░░░░░░   18.49 %
+INI                                ██▓░░░░░░░░░░░░░░░░░░░░░░   10.42 %
+JavaScript                         ██░░░░░░░░░░░░░░░░░░░░░░░   07.65 %
+```
+
 <!--END_SECTION:waka-->
   
 </div>
