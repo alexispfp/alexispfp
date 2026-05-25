@@ -102,18 +102,25 @@
   ## 📊 &nbsp;Activities
 
 <!--START_SECTION:waka-->
+![Code Time](http://img.shields.io/badge/Code%20Time-330%20hrs%2041%20mins-blue?style=flat)
 
-```ruby
-From: 24 April 2026 - To: 24 May 2026
+📊 **This Week I Spent My Time On** 
 
-Total Time: 3 hrs 37 mins
+```text
+🕑︎ Time Zone: America/Sao_Paulo
 
-Markdown                           █████████████████████▒░░░   85.58 %
-HTML                               ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.83 %
-Bash                               ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.13 %
-dosini                             ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.99 %
+💬 Programming Languages: 
+Other                    18 mins             █████████████████████████   100.00 % 
+
+🔥 Editors: 
+Discord                  18 mins             █████████████████████████   100.00 % 
+
+💻 Operating System: 
+Linux                    18 mins             █████████████████████████   100.00 % 
 ```
 
+
+ Last Updated on 25/05/2026 03:36:29 UTC
 <!--END_SECTION:waka-->
   
 </div>
