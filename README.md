@@ -102,18 +102,31 @@
   ## 📊 &nbsp;Activities
 
 <!--START_SECTION:waka-->
+![Code Time](http://img.shields.io/badge/Code%20Time-341%20hrs%2046%20mins-blue?style=flat)
 
-```ruby
-From: 02 May 2026 - To: 01 June 2026
+📊 **This Week I Spent My Time On** 
 
-Total Time: 13 hrs 5 mins
+```text
+🕑︎ Time Zone: America/Sao_Paulo
 
-Markdown                           ███████████████░░░░░░░░░░   60.30 %
-Python                             █████▓░░░░░░░░░░░░░░░░░░░   23.09 %
-Lua                                ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.16 %
-hyprlang                           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.58 %
+💬 Programming Languages: 
+Python                   6 hrs 46 mins       ████████████░░░░░░░░░░░░░   47.36 % 
+Markdown                 5 hrs 32 mins       ██████████░░░░░░░░░░░░░░░   38.75 % 
+Other                    1 hr 3 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   07.40 % 
+zsh                      25 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.01 % 
+Lua                      19 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.24 % 
+
+🔥 Editors: 
+VS Code                  13 hrs 8 mins       ███████████████████████░░   91.90 % 
+Discord                  36 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.23 % 
+Neovim                   33 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.87 % 
+
+💻 Operating System: 
+Linux                    14 hrs 18 mins      █████████████████████████   100.00 % 
 ```
 
+
+ Last Updated on 02/06/2026 03:42:53 UTC
 <!--END_SECTION:waka-->
   
 </div>
