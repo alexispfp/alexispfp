@@ -102,30 +102,18 @@
   ## 📊 &nbsp;Activities
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-347%20hrs%2040%20mins-blue?style=flat)
 
-📊 **This Week I Spent My Time On** 
+```ruby
+From: 08 May 2026 - To: 07 June 2026
 
-```text
-🕑︎ Time Zone: America/Sao_Paulo
+Total Time: 18 hrs 53 mins
 
-💬 Programming Languages: 
-Python                   8 hrs 48 mins       ██████████████████████░░░   89.68 % 
-zsh                      25 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.39 % 
-Other                    14 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.53 % 
-Lua                      13 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.36 % 
-Markdown                 5 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.89 % 
-
-🔥 Editors: 
-VS Code                  9 hrs 21 mins       ████████████████████████░   95.27 % 
-Neovim                   27 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.73 % 
-
-💻 Operating System: 
-Linux                    9 hrs 49 mins       █████████████████████████   100.00 % 
+Markdown                         ███████████░░░░░░░░░░░░░░   43.35 %
+Python                           ██████████▓░░░░░░░░░░░░░░   43.03 %
+zsh                              ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.10 %
+Lua                              ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.55 %
 ```
 
-
- Last Updated on 06/06/2026 02:54:18 UTC
 <!--END_SECTION:waka-->
   
 </div>
