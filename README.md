@@ -102,23 +102,15 @@
   ## 📊 &nbsp;Activities
 
 <!--START_SECTION:waka-->
-📊 **This Week I Spent My Time On** 
 
-```text
-🕑︎ Time Zone: America/Sao_Paulo
+```ruby
+From: 24 June 2026 - To: 24 July 2026
 
-💬 Programming Languages: 
-No Activity Tracked This Week
+Total Time: 0 secs
 
-🔥 Editors: 
-No Activity Tracked This Week
-
-💻 Operating System: 
-No Activity Tracked This Week
+No activity tracked
 ```
 
-
- Last Updated on 24/07/2026 02:28:23 UTC
 <!--END_SECTION:waka-->
   
 </div>
