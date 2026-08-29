@@ -102,33 +102,15 @@
   ## 📊 &nbsp;Activities
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-334%20hrs%2027%20mins-blue?style=flat)
 
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-5%20hrs%2038%20mins-blue?style=flat)
+```ruby
+From: 29 July 2026 - To: 28 August 2026
 
-📊 **This Week I Spent My Time On** 
+Total Time: 0 secs
 
-```text
-🕑︎ Time Zone: America/Sao_Paulo
-
-💬 Programming Languages: 
-No Activity Tracked This Week
-
-🔥 Editors: 
-No Activity Tracked This Week
-
-💻 Operating System: 
-No Activity Tracked This Week
+No activity tracked
 ```
 
-🤖 **AI Coding This Week** 
-
-```text
-No AI Coding Activity Tracked This Week
-```
-
-
- Last Updated on 28/08/2026 09:28:44 UTC
 <!--END_SECTION:waka-->
   
 </div>
