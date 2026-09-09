@@ -102,55 +102,18 @@
   ## 📊 &nbsp;Activities
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-335%20hrs%204%20mins-blue?style=flat)
 
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-5%20hrs%2057%20mins-blue?style=flat)
+```ruby
+From: 09 August 2026 - To: 08 September 2026
 
-📊 **This Week I Spent My Time On** 
+Total Time: 8 hrs 11 mins
 
-```text
-🕑︎ Time Zone: America/Sao_Paulo
-
-💬 Programming Languages: 
-Python                   7 hrs 12 mins       ████████████████████████░   96.21 % 
-Text                     8 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.99 % 
-Other                    3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.87 % 
-Unity3D Asset            2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.61 % 
-Markdown                 1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.23 % 
-
-🔥 Editors: 
-VS Code                  7 hrs 22 mins       █████████████████████████   98.46 % 
-Codex Vscode             6 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.54 % 
-
-💻 Operating System: 
-Linux                    7 hrs 29 mins       █████████████████████████   100.00 % 
+Python                                ████████████████████████░   96.56 %
+Text                                  ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.81 %
+Unity3D Asset                         ░░░░░░░░░░░░░░░░░░░░░░░░░   00.56 %
+Markdown                              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.21 %
 ```
 
-🤖 **AI Coding This Week** 
-
-```text
-⏱ AI Coding Time: 3 hrs 36 mins (48.17%)
-
-✍️ 43 lines written by AI, 7,411 lines written by hand (0.58% AI-written)
-
-🔤 381,005 Input Tokens, 18,233 Output Tokens
-
-💵 $1.31 Estimated AI Cost This Week
-
-🧠 4 AI Sessions, 36 AI Prompts
-
-GPT                      66 lines            █████████████████████████   100.00 % 
-Copilot                  0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
-
-🔎 AI Coding Insights:
-🧑‍💻 Mostly Hands-On — 0.58% of written lines came from AI
-📄 Detailed Prompter — average 725 characters per prompt
-🔁 Iterative Prompter — average 9 prompts per session
-🔍 Hands-On Reviewer — 99.34% of changed lines were hand-edited
-```
-
-
- Last Updated on 08/09/2026 03:00:58 UTC
 <!--END_SECTION:waka-->
   
 </div>
