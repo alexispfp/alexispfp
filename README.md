@@ -102,18 +102,56 @@
   ## 📊 &nbsp;Activities
 
 <!--START_SECTION:waka-->
+![Code Time](http://img.shields.io/badge/Code%20Time-342%20hrs%2038%20mins-blue?style=flat)
 
-```ruby
-From: 09 August 2026 - To: 08 September 2026
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-10%20hrs-blue?style=flat)
 
-Total Time: 8 hrs 11 mins
+📊 **This Week I Spent My Time On** 
 
-Python                                ████████████████████████░   96.56 %
-Text                                  ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.81 %
-Unity3D Asset                         ░░░░░░░░░░░░░░░░░░░░░░░░░   00.56 %
-Markdown                              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.21 %
+```text
+🕑︎ Time Zone: America/Sao_Paulo
+
+💬 Programming Languages: 
+Python                   7 hrs 58 mins       ████████████████████████░   96.56 % 
+Text                     8 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.81 % 
+Other                    3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.79 % 
+Unity3D Asset            2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.56 % 
+Markdown                 1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.21 % 
+
+🔥 Editors: 
+VS Code                  7 hrs 57 mins       ████████████████████████░   96.38 % 
+Antigravity Desktop      11 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.23 % 
+Codex Vscode             6 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.40 % 
+
+💻 Operating System: 
+Linux                    8 hrs 15 mins       █████████████████████████   100.00 % 
 ```
 
+🤖 **AI Coding This Week** 
+
+```text
+⏱ AI Coding Time: 4 hrs 22 mins (52.99%)
+
+✍️ 43 lines written by AI, 7,411 lines written by hand (0.58% AI-written)
+
+🔤 381,005 Input Tokens, 18,233 Output Tokens
+
+💵 $1.31 Estimated AI Cost This Week
+
+🧠 6 AI Sessions, 45 AI Prompts
+
+GPT                      66 lines            █████████████████████████   100.00 % 
+Copilot                  0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
+
+🔎 AI Coding Insights:
+🧑‍💻 Mostly Hands-On — 0.58% of written lines came from AI
+📄 Detailed Prompter — average 794 characters per prompt
+🔁 Iterative Prompter — average 8 prompts per session
+🔍 Hands-On Reviewer — 99.34% of changed lines were hand-edited
+```
+
+
+ Last Updated on 09/09/2026 03:02:15 UTC
 <!--END_SECTION:waka-->
   
 </div>
