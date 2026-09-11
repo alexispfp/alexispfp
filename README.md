@@ -104,8 +104,6 @@
 <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-357%20hrs%2035%20mins-blue?style=flat)
 
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-10%20hrs%2043%20mins-blue?style=flat)
-
 📊 **This Week I Spent My Time On** 
 
 ```text
