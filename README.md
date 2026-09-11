@@ -102,18 +102,33 @@
   ## 📊 &nbsp;Activities
 
 <!--START_SECTION:waka-->
+![Code Time](http://img.shields.io/badge/Code%20Time-358%20hrs%2028%20mins-blue?style=flat)
 
-```ruby
-From: 12 August 2026 - To: 11 September 2026
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-10%20hrs%2043%20mins-blue?style=flat)
 
-Total Time: 24 hrs
+📊 **This Week I Spent My Time On** 
 
-Python                                ████████████████████████▒   97.55 %
-Text                                  ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.97 %
-Markdown                              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.62 %
-Unity3D Asset                         ░░░░░░░░░░░░░░░░░░░░░░░░░   00.19 %
+```text
+🕑︎ Time Zone: America/Sao_Paulo
+
+💬 Programming Languages: 
+Python                   23 hrs 29 mins      ████████████████████████░   97.55 % 
+Text                     13 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.97 % 
+Markdown                 8 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.62 % 
+Other                    3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.27 % 
+Unity3D Asset            2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.19 % 
+
+🔥 Editors: 
+VS Code                  23 hrs 15 mins      ████████████████████████░   96.61 % 
+Antigravity Desktop      27 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.89 % 
+Codex Vscode             21 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.50 % 
+
+💻 Operating System: 
+Linux                    24 hrs 4 mins       █████████████████████████   100.00 % 
 ```
 
+
+ Last Updated on 11/09/2026 20:05:26 UTC
 <!--END_SECTION:waka-->
   
 </div>
