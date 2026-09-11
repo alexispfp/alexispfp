@@ -102,54 +102,18 @@
   ## 📊 &nbsp;Activities
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-357%20hrs%2035%20mins-blue?style=flat)
 
-📊 **This Week I Spent My Time On** 
+```ruby
+From: 12 August 2026 - To: 11 September 2026
 
-```text
-🕑︎ Time Zone: America/Sao_Paulo
+Total Time: 24 hrs
 
-💬 Programming Languages: 
-Python                   23 hrs 29 mins      ████████████████████████░   97.55 % 
-Text                     13 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.97 % 
-Markdown                 8 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.62 % 
-Other                    3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.27 % 
-Unity3D Asset            2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.19 % 
-
-🔥 Editors: 
-VS Code                  23 hrs 15 mins      ████████████████████████░   96.61 % 
-Antigravity Desktop      27 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.89 % 
-Codex Vscode             21 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.50 % 
-
-💻 Operating System: 
-Linux                    24 hrs 4 mins       █████████████████████████   100.00 % 
+Python                                ████████████████████████▒   97.55 %
+Text                                  ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.97 %
+Markdown                              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.62 %
+Unity3D Asset                         ░░░░░░░░░░░░░░░░░░░░░░░░░   00.19 %
 ```
 
-🤖 **AI Coding This Week** 
-
-```text
-⏱ AI Coding Time: 5 hrs 5 mins (21.14%)
-
-✍️ 122 lines written by AI, 13,501 lines written by hand (0.9% AI-written)
-
-🔤 517,852 Input Tokens, 42,083 Output Tokens
-
-💵 $2.51 Estimated AI Cost This Week
-
-🧠 8 AI Sessions, 80 AI Prompts
-
-GPT                      160 lines           █████████████████████████   100.00 % 
-Copilot                  0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
-
-🔎 AI Coding Insights:
-🧑‍💻 Mostly Hands-On — 0.9% of written lines came from AI
-📄 Detailed Prompter — average 546 characters per prompt
-🔁 Iterative Prompter — average 10 prompts per session
-🔍 Hands-On Reviewer — 99.32% of changed lines were hand-edited
-```
-
-
- Last Updated on 11/09/2026 19:57:11 UTC
 <!--END_SECTION:waka-->
   
 </div>
