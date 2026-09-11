@@ -45,5 +45,7 @@ jobs:
           SHOW_COMMIT: false
           SHOW_PROFILE_VIEWS: false
           SHOW_AI_CODING: false
+          SHOW_AI_CODE_TIME: false
+          SHOW_TOTAL_CODE_TIME: false
           ### commit
           COMMIT_MESSAGE: Updated waka-readme graph with new metrics # optional
