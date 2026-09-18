@@ -102,18 +102,26 @@
   ## 📊 &nbsp;Activities
 
 <!--START_SECTION:waka-->
+📊 **This Week I Spent My Time On** 
 
-```ruby
-From: 18 August 2026 - To: 17 September 2026
+```text
+🕑︎ Time Zone: America/Sao_Paulo
 
-Total Time: 27 hrs 18 mins
+💬 Programming Languages: 
+Python                   3 hrs 57 mins       ████████████████████████░   94.11 % 
+Markdown                 8 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   03.49 % 
+Text                     4 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.84 % 
+Git Config               1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.56 % 
 
-Python                                ████████████████████████▒   97.85 %
-Text                                  ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.85 %
-Markdown                              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.54 %
-Unity3D Asset                         ░░░░░░░░░░░░░░░░░░░░░░░░░   00.17 %
+🔥 Editors: 
+VS Code                  4 hrs 12 mins       █████████████████████████   100.00 % 
+
+💻 Operating System: 
+Linux                    4 hrs 12 mins       █████████████████████████   100.00 % 
 ```
 
+
+ Last Updated on 18/09/2026 03:09:43 UTC
 <!--END_SECTION:waka-->
   
 </div>
