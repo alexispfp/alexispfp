@@ -102,27 +102,19 @@
   ## 📊 &nbsp;Activities
 
 <!--START_SECTION:waka-->
-📊 **This Week I Spent My Time On** 
 
-```text
-🕑︎ Time Zone: America/Sao_Paulo
+```ruby
+From: 26 August 2026 - To: 25 September 2026
 
-💬 Programming Languages: 
-YAML                     1 hr 5 mins         ██████████████░░░░░░░░░░░   54.65 % 
-Docker                   29 mins             ██████░░░░░░░░░░░░░░░░░░░   24.40 % 
-Python                   24 mins             █████░░░░░░░░░░░░░░░░░░░░   20.53 % 
-Git Config               0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.31 % 
-JSON                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.11 % 
+Total Time: 29 hrs 19 mins
 
-🔥 Editors: 
-VS Code                  2 hrs               █████████████████████████   100.00 % 
-
-💻 Operating System: 
-Linux                    2 hrs               █████████████████████████   100.00 % 
+Python                                ███████████████████████░░   92.57 %
+YAML                                  █░░░░░░░░░░░░░░░░░░░░░░░░   03.83 %
+Docker                                ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.67 %
+Text                                  ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.79 %
+Markdown                              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.51 %
 ```
 
-
- Last Updated on 25/09/2026 03:23:45 UTC
 <!--END_SECTION:waka-->
   
 </div>
