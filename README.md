@@ -102,28 +102,19 @@
   ## 📊 &nbsp;Activities
 
 <!--START_SECTION:waka-->
-📊 **This Week I Spent My Time On** 
 
-```text
-🕑︎ Time Zone: America/Sao_Paulo
+```ruby
+From: 19 October 2026 - To: 18 November 2026
 
-💬 Programming Languages: 
-TOML                     30 mins             ████████░░░░░░░░░░░░░░░░░   33.48 % 
-Bash                     30 mins             ████████░░░░░░░░░░░░░░░░░   32.75 % 
-Markdown                 29 mins             ████████░░░░░░░░░░░░░░░░░   32.50 % 
-directory                1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   01.27 % 
+Total Time: 9 hrs 21 mins
 
-🔥 Editors: 
-Neovim                   31 mins             █████████░░░░░░░░░░░░░░░░   34.75 % 
-Claude Code              30 mins             ████████░░░░░░░░░░░░░░░░░   32.75 % 
-VS Code                  29 mins             ████████░░░░░░░░░░░░░░░░░   32.50 % 
-
-💻 Operating System: 
-Linux                    1 hr 31 mins        █████████████████████████   100.00 % 
+Markdown                           ████████▓░░░░░░░░░░░░░░░░   34.39 %
+TypeScript                         ███████▒░░░░░░░░░░░░░░░░░   28.70 %
+HTML                               ██░░░░░░░░░░░░░░░░░░░░░░░   07.94 %
+Lua                                █▓░░░░░░░░░░░░░░░░░░░░░░░   06.42 %
+Bash                               █▒░░░░░░░░░░░░░░░░░░░░░░░   05.75 %
 ```
 
-
- Last Updated on 18/11/2026 17:13:43 UTC
 <!--END_SECTION:waka-->
   
 </div>
